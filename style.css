@@ -1,5 +1,11 @@
 body {
-    background: #a3c5a3;
+    background: linear-gradient(90deg, #159957, #155799);
+}
+
+h1 {
+    text-align: center;
+    color: #b48608;
+    font-size: 3.5em;
 }
 
 .terrain_de_jeu{
