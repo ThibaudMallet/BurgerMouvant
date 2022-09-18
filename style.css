@@ -43,10 +43,12 @@ h1 {
     content:"\01F354";
     color: #944ac7;
     font-size: 2em;
+    text-align: center;
 }
 .goal:before {
     content: "\01F604";
     font-size: 2em;
+    text-align: center;
 }
 
 .square.wall {
