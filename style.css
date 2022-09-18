@@ -42,9 +42,11 @@ h1 {
 .burger:before {
     content:"\01F354";
     color: #944ac7;
+    font-size: 2.7em;
 }
 .goal:before {
     content: "\01F604";
+    font-size: 2.7em;
 }
 
 .square.wall {
